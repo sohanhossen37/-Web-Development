@@ -1,10 +1,9 @@
 sohan --
-i am a student of ku
-pursing cse in 3rd year
-nw  snd d
-wejnw
-nernknwknknw
-inwknwk nwnkwwkkw 
-
-ww
-hi i am sohan
+"👨‍💻 Undergraduate student at Khulna University, 
+pursuing Computer Science and Engineering. 
+Passionate about technology, particularly in embedded 
+systems, IoT, electronics, and programming. Eager to explore
+ the intersection of hardware and software to innovate and create 
+ impactful solutions. Constantly learning and experimenting 
+ with new technologies. Open to collaboration and excited to 
+ contribute to meaningful projects. Let's build the future together! 🚀"
